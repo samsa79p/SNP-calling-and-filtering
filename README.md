@@ -1,2 +1,2 @@
 # SNP-calling-and-filtering
-Amplicon specific genotyping
+Amplicon specific genotyping using MiSeq
